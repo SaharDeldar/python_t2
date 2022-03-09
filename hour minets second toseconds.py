@@ -1,0 +1,5 @@
+a_hour=int(input())
+b_minets=int(input())
+c_seconds=int(input())
+seconds=(a_hour*60*60)+(b_minets*60)+(c_seconds*60)
+print("seconds :",seconds)
